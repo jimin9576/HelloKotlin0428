@@ -10,8 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloKotlin0428">
         <activity
+            android:name=".FlowControlKotlinActivity"
+            android:label="FlowControlKotlinActivity"></activity>
+        <activity
+            android:name=".FlowControlJavaActivity"
+            android:label="FlowControlJavaActivity" />
+        <activity
             android:name=".VariableJavaActivity"
-            android:label="VariableJavaActivity"></activity>
+            android:label="VariableJavaActivity" />
         <activity
             android:name=".VariableKotlinActivity"
             android:label="VariableKotlinActivity" />
